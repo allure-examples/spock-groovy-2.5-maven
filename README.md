@@ -1,0 +1,1 @@
+# spock-v2.5-maven
