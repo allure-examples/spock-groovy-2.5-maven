@@ -1,6 +1,6 @@
 # Allure Example
 
-> Example of Allure Report usage with spock, groovy 2.5 and Maven
+> Example of Allure Report usage with Spock, Groovy 2.5 and Maven
 
 <!--<img src="https://allurereport.org/public/img/allure-report.svg" alt="Allure Report logo" style="float: right" />-->
 
